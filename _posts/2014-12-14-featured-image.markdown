@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Featured Image"
-date:   2014-12-14
-image: touring.jpg
+title:  "Imagem para teste"
+date:   2017-09-10
+image: Khaleesi.jpg
 ---
 
 <p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
